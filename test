@@ -1,0 +1,17 @@
+
+
+DataDriven and KeywordDriven using pageobject model.
+
+pageobjects --> one seperate package
+
+testcases --> one seperate pkg
+
+locators --> seperate class for locators 
+
+Driver --> class
+
+02/11/21
+1)no need to use driver executables.
+2)Propertyfilemanager
+3)driver class with null check 
+4)constants package
